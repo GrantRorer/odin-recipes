@@ -1,1 +1,1 @@
-# odin-recipes
+This Project is making a website full of my favorite recipes and it's using the basics I've learned through the odin course. As of 4/18/2023 I have only learned very basic html so this is a very rough cut of the website and will be revisited at a later date. 
